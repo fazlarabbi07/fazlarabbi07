@@ -1,4 +1,4 @@
-## Hi I'm Islem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Fazla Rabbi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
 
@@ -76,7 +76,7 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+TypeScript   10 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
 HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
