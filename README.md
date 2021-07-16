@@ -51,7 +51,7 @@ I'm Mohammad Fazla Rabbi, a Full Stack Web Developer and Content Creator on [You
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/fazlarabbi07/CV/blob/master/cv/Rabbi%2C%20Md.%20Fazla%2015-30616-3%20(1).doc)
 - :email: ipenywis@gmail.com
 
 
